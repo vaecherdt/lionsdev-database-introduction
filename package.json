@@ -1,0 +1,23 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "description": "este pacote é usado  para testar os programas antes da aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vaecherdt/exemplo.git"
+  },
+  "author": "João Pedro dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaecherdt/exemplo/issues"
+  },
+  "homepage": "https://github.com/vaecherdt/exemplo#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.6.2"
+  }
+}
